@@ -5,6 +5,6 @@ I am using Storybook to build isolated components, facilitating rapid prototypin
 # The deisgn
 So i sourced for a design system from Figma community , finally decided to build the design system by Tailgrids.
 
-(https://github.com/lamodots/TailgridsUIComponents/blob/main/public/Web%20capture_6-9-2023_1704_www.figma.com.jpeg)
+![](https://github.com/lamodots/TailgridsUIComponents/blob/main/public/Web%20capture_6-9-2023_1704_www.figma.com.jpeg)
 
 
