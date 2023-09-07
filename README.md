@@ -19,5 +19,10 @@ To build a Design systems that streamline the design and development process. De
 - Tailwindcss
 - Tailwind-variant
 
+## What i learnt
+- Professional teamwork with designs
+- Advanced CSS
+- UI documentation with Storybook
+
   ## Demo
 
