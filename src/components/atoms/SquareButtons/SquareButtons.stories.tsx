@@ -39,7 +39,7 @@ export const Button: Story = {
     children: 'Buton',
     color: 'dark',
     fullWidth: false,
-    onclick: ()=> alert('Hello world'),
+    onclick: ()=> alert('Hello world !'),
     size: 'sm',
   }
 }
